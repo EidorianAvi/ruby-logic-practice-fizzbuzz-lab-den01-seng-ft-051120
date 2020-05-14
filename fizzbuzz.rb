@@ -3,5 +3,8 @@
 
 
 def fizzbuzz(number)
-  if
+  if number%3 == 0 
+    return "Fizz"
+  elsif number%5 == 0 
+    return ""
 end
